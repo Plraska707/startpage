@@ -3,6 +3,7 @@
 <p align="center">A minimalist startpage designed for quick access to your favorite websites</p>
 
 ![Startpage Screenshot](/resources/startpage_2025-05-25.png)
+
 This is my personalized startpage, designed to be my browser homepage. It includes quick links to my favorite websites, a search bar, and a minimalist layout.
 
 ## Repository Structure
